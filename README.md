@@ -18,5 +18,11 @@
 * Displayed above every gif is it's title and rating (PG, G, so on) provided from the API.
 
 * The user can remove the topic button from the HTML page by double-clicking the button. 
+
+# Below is a bonus function that was added but not working properly...)
+*   The user can search for a new topic by using the search box located on the right.
+*   A new button will be created and displayed for the new topic entered and submited in the search box. 
+
+
    
  
